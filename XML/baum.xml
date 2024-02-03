@@ -1,0 +1,11 @@
+<wurzel>
+    <stamm>
+        <ast></ast>
+            <zweig>
+                <blatt> colors = "green"
+                </blatt>
+            </zweig>
+        <ast></ast>
+        <ast></ast>
+    </stamm>
+</wurzel>
